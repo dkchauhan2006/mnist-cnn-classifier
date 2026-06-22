@@ -1,5 +1,5 @@
 
-# MNIST Handwritten Digit Classification (CNN)
+# SignVision: ASL Meets AI 
 
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
