@@ -28,7 +28,7 @@ The custom CNN is built using `torch.nn` and follows the assignment's structural
 
 ---
 
-## 📊 Performance & Evaluation
+## Performance & Evaluation
 
 The model was trained for 10 epochs. Below are the visual diagnostics evaluating its performance, as required by the assignment.
 
