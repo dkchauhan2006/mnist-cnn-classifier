@@ -28,22 +28,21 @@ The custom CNN is built using `torch.nn` and follows the assignment's structural
 
 ---
 
-##  Performance & Evaluation
+## 📊 Performance & Evaluation
 
 The model was trained for 10 epochs. Below are the visual diagnostics evaluating its performance, as required by the assignment.
 
 ### 1. Training and Test Loss vs. Epochs
 *Monitors the optimization of the model and checks for convergence.*
-![Loss Curve](outputs/loss_vs_epochs.png)
+![Loss Curve](loss_curve.png)
 
 ### 2. Training and Test Accuracy vs. Epochs
 *Tracks the generalization of the model to ensure it is not overfitting.*
-![Accuracy Curve](outputs/accuracy_vs_epochs.png)
+![Accuracy Curve](accuracy_curve.png)
 
 ### 3. Final Confusion Matrix
 *A heatmap visualization of the model's predictions versus the true labels on the test dataset.*
-![Confusion Matrix](outputs/confusion_matrix.png)
-
+![Confusion Matrix](confusion_matrix.png)
 ---
 
 ##  Setup & Installation
